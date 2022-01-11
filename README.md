@@ -1,2 +1,2 @@
 # alphadev
-want to be a profetional socftware developer 
+want to be a profetional software developer 
