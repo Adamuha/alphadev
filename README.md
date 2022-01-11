@@ -7,7 +7,7 @@ here is my little work;
  <link rel="stylesheet" href="style.css"> 
 </head>
 <body>
-    <p>Before th script...</p>
+    <p>Before the script...</p>
     <script> alert( 'Hello, World!' ); </script>
 <p>...after the script.</p>
 
